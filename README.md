@@ -1,10 +1,8 @@
 <!-- Header -->
-<img src="https://raw.githubusercontent.com/hopealiang/hopealiang.github.io/main/misskalem-at-15658_512.gif" width="250" alt="Black cat batting a green cup" />
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=120&section=header&fontSize=40&fontColor=ffffff&animation=fadeIn)
 <div align="center">
 
-# Hi, I'm Hope Liang 👋
+<img src="https://raw.githubusercontent.com/hopealiang/hopealiang.github.io/main/misskalem-at-15658_512.gif" width="80" alt="Black cat batting a green cup" /> Hi, I'm Hope Liang 👋 <img src="https://raw.githubusercontent.com/hopealiang/hopealiang.github.io/main/misskalem-at-15658_512.gif" width="80" alt="Black cat batting a green cup" />
 ### Operations & Program Management | Bay Area, CA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hope--liang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hope-liang)
