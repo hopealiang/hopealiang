@@ -2,13 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=120&section=header&fontSize=40&fontColor=ffffff&animation=fadeIn)
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0" style="border:none;">
-<tr>
-<td style="border:none;"><img src="https://raw.githubusercontent.com/hopealiang/hopealiang.github.io/main/misskalem-at-15658_512.gif" width="150" alt="Black cat" /></td>
-<td style="border:none;"><h1>Hi, I'm Hope Liang 👋</h1></td>
-<td style="border:none;"><img src="https://raw.githubusercontent.com/hopealiang/hopealiang.github.io/main/misskalem-at-15658_512.gif" width="150" alt="Black cat" /></td>
-</tr>
-</table>
+# Hi, I'm Hope Liang 👋
 ### Operations & Program Management | Bay Area, CA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hope--liang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hope-liang)
