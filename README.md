@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="your-uploaded-walking-cat.gif" width="150" alt="Walking Cat Animation" />
-</p>
 <!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=120&section=header&fontSize=40&fontColor=ffffff&animation=fadeIn)
 <div align="center">
