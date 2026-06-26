@@ -1,4 +1,4 @@
-<p align="center">
+p align="center">
   <img src="misskalem-at-15658_512.gif" width="250" alt="Black cat batting a green cup" />
 </p>
 <!-- Header -->
