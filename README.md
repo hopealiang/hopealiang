@@ -1,5 +1,6 @@
-p align="center">
-  <img src="misskalem-at-15658_512.gif" width="250" alt="Black cat batting a green cup" />
+<!-- Header -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hopealiang/hopealiang.github.io/main/misskalem-at-15658_512.gif" width="250" alt="Black cat batting a green cup" />
 </p>
 <!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=120&section=header&fontSize=40&fontColor=ffffff&animation=fadeIn)
